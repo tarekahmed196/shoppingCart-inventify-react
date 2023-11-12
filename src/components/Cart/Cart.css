@@ -17,3 +17,24 @@
     justify-content: space-between;
     align-items: center;
 }
+.btn-checkout-cart{
+    width: 95%;
+    height: 56px;
+    font-size: 14px;
+    margin: 10px auto;
+    background: #453b06;
+    border-radius: 4px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    
+}
+
+.margin-right{
+    margin-right: 25px;
+}
+.margin-left{
+    margin-left: 25px;
+}

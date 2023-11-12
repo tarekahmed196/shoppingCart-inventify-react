@@ -41,3 +41,13 @@
 .btn-cart:hover{
     background-color: orange;
 }
+
+.transition-container{
+    position: relative;
+    transition: transform 0.3s ease-in-out;
+}
+
+  .transition-container:hover {
+    transform: scale(1.1);
+    
+  }
